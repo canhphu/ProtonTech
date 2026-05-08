@@ -1,0 +1,8 @@
+Subject: Issue with payment processing
+
+Hello Support,
+
+We are seeing intermittent failures when customers pay with Visa cards. The error rate spiked after the last deploy. Can you investigate urgently and provide an update today? Also loop in Thu from finance to confirm impacted transactions.
+
+Regards,
+Quang

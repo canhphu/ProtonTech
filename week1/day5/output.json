@@ -1,0 +1,15 @@
+{
+  "summary": "This email is a follow-up to the weekly sync meeting. The team is requested to review an attached proposal and submit their feedback by Friday at 3 PM. Minh is responsible for updating the timeline and sharing the revised plan with everyone. Lan will be scheduling a follow-up meeting for next Tuesday to continue the discussion.",
+  "action_items": [
+    "Review the attached proposal",
+    "Send feedback on the proposal by Friday 3 PM",
+    "Minh to update the timeline",
+    "Minh to share the revised plan",
+    "Lan to schedule a follow-up meeting for next Tuesday"
+  ],
+  "priority": "medium",
+  "people": [
+    "Minh",
+    "Lan"
+  ]
+}
